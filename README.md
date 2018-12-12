@@ -1,4 +1,4 @@
-# EDA-Global-Terrorism
+# EDA Global Terrorism
 
 A brief exploratory data analysis of trends in terrorism from 1970 to 2017 for general interest and learning purposes. 
 
